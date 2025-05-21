@@ -468,7 +468,3 @@ RETURN
     WHERE D.DepartmentName = @DepartmentName
 );
 
-
-
--- Find employees in the IT department and their years of service
--- Find employees in the HR department and their years of service
